@@ -1,5 +1,5 @@
 # ARMaze
-A AR game I spent hours developing one boring afternoon :)
+An AR game I spent hours developing one boring afternoon :)
 
 Made with Unity 2018.4.36 and Vuforia pack
 
